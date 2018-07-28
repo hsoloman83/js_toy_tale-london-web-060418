@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 31
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 3,
@@ -46,7 +46,25 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 3
+    },
+    {
+      "name": "pony",
+      "image": "http://dawsonmmp.com/wp-content/uploads/2018/07/gorgeous-pictures-of-toys-3-coloring-pages.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "diva pony",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81MpUo-Pt6L._SY355_.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Ken",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/e/e1/Ken_Carson.jpg/revision/latest?cb=20140123042753",
+      "likes": 3,
+      "id": 11
     }
   ]
 }
